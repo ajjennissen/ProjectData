@@ -1,0 +1,396 @@
+Name,Age,Hometown,Job,Top 4,season,"Skin (0=white, 1= Black)",Bachelor Age
+*Amanda Marsh*,23,"*Chanute, Kansas*",*Event Planner*,Yes,1,0,31
+*Trista Rehn*,29,"Miami, Florida",Miami Heat Dancer,Yes,1,0,31
+Shannon Oliver,24,"Dallas, Texas",Financial Management Consultant,Yes,1,0,31
+Kim,24,"Tempe, Arizona",Nanny,Yes,1,0,31
+Cathy Grimes,22,"Terre Haute, Indiana",Graduate Student,No,1,0,31
+Christina Stencil,28,"Bonita, California",Attorney,No,1,0,31
+LaNease Adams,23,"Los Angeles, California",Actress,No,1,1,31
+Rhonda Rittenhouse,28,"Woodward, Oklahoma",Commercial Real Estate Agent,No,1,0,31
+Alexa,27,"Beverly Hills, California",Special Ed. Teacher,No,1,0,31
+Amy Anzel,28,"New York, New York",Production Coordinator,No,1,0,31
+Angela,25,"Avondale, Arizona",Hooters Waitress,No,1,0,31
+Angelique Madrid,27,"Burbank, California",Actress,No,1,0,31
+Katie,23,"Malden, Massachusetts",Power Tool Sales Rep.,No,1,0,31
+Melissa,25,"Tempe, Arizona",Photographer,No,1,0,31
+Tina Chen,27,"Plano, Texas",Graduate Student,No,1,0,31
+Amber,29,"Los Angeles, California",Business Development Director,No,1,0,31
+Daniela,30,"Seattle, Washington",Neuropsychologist,No,1,0,31
+Denise,30,"Honolulu, Hawaii",Doctor,No,1,0,31
+Jackie,22,"Pittsburgh, Pennsylvania",Bar Manager,No,1,0,31
+Jill,31,"Chicago, Illinois",Retail Manager,No,1,0,31
+Kristina Jenkins,27,"Los Angeles, California",Advertising Executive,No,1,1,31
+Lisa Gold,29,"Dallas, Texas",Attorney,No,1,0,31
+Paula,24,"Swansea, Massachusetts",Insurance Representative,No,1,0,31
+Rachel,29,"Eastchester, New York",6th Grade Teacher,No,1,0,31
+Wendi Plotnik,26,"Dallas, Texas",Technology Specialist,No,1,0,31
+*Helene Eksterowicz*,27,"*Gloucester, New Jersey*",*School Psychologist*,Yes,2,0,28
+Brooke Smith,22,"Albertville, Alabama",College Student,Yes,2,0,28
+Gwen Gioia,31,"Philadelphia, Pennsylvania",Executive Recruiter,Yes,2,0,28
+Angela,27,"Kansas City, Missouri",Registered Nurse,Yes,2,0,28
+Hayley Crittenden,28,"Lake Oswego, Oregon",Retail Manager,No,2,0,28
+Heather Cranford,30,"Dallas, Texas",Flight Attendant,No,2,0,28
+Christi Weible,23,"Boise, Idaho",Assistant Financial Advisor,No,2,0,28
+Heather,24,"Walnut Creek, California",Marriage Therapy Trainee,No,2,0,28
+Kyla Dickerson,22,"Midvale, Utah",Airline Supervisor,No,2,0,28
+Shannon,26,"Long Island, New York",Graphic Artist,No,2,0,28
+Dana Norris,24,"Beverly Hills, California",Radio Sales,No,2,0,28
+Erin,25,"West Chester, Pennsylvania",Publications Quality Control,No,2,0,28
+Suzanne Freeman,33,"Redondo Beach, California",Flight Attendant,No,2,0,28
+Frances Dinglasan,30,"San Francisco, California",Strategic Planning Analyst,No,2,0,28
+Anindita Dutta,27,"New York, New York",Attorney,No,2,0,28
+Amber West,26,"Chapel Hill, North Carolina",Psychologist,No,2,0,28
+Camille Langfield,29,"Los Angeles, California",Actress,No,2,0,28
+Cari,29,"Granite City, Illinois",3rd Grade Teacher,No,2,0,28
+Christy,24,"Avondale, Arizona",Radiological Technologist,No,2,0,28
+Erin,24,"Houston, Texas",Interior Designer,No,2,0,28
+Fatima Rivas,22,"Long Beach, California",College Student,No,2,0,28
+Liangy Fernandez,30,"Coral Gables, Florida",Paralegal,No,2,0,28
+Lori Todd,26,"Dallas, Texas",Former NBA Cheerleader,No,2,1,28
+Merrilee Donohue,28,"Forked River, New Jersey",1st Grade Teacher,No,2,0,28
+Suzi Reid,28,"Richmond, Virginia",Communications Specialist,No,2,0,28
+,,,,No,,0,28
+*Jessica Bowlin*,22,"*Huntington Beach, California*",*Student*,Yes,5,0,25
+Tara Huckeby,23,"Shawnee, Oklahoma",General contractor,Yes,5,0,25
+Mandy Jaye Jeffreys,26,"Midland, Texas",Designer for an architect firm,Yes,5,0,25
+Trish Schneider,28,"Atlanta, Georgia",Model,Yes,5,0,25
+Suzie Williams,23,"Ann Arbor, Michigan",Prosthetic technician,No,5,0,25
+Karen Lindsay,28,"Pleasant Grove, Utah",Pharmaceutical sales,No,5,0,25
+Jessica Holcomb,25,"Pearsall, Texas",Attorney,No,5,0,25
+Julie Durda,24,"Sacramento, California",Professional Cheerleader,No,5,0,25
+Jenny De Schiralli,26,"Carrboro, North Carolina",Swim instructor/nanny/personal trainer,No,5,0,25
+Katie Gehart,22,"Scottsdale, Arizona",LASIK Eye and Skin Center manager,No,5,0,25
+Jean-Marie Callahan,26,"Gibson, North Carolina",Hair stylist,No,5,0,25
+Debbie Merkett,27,"Pinetops, North Carolina",Massage therapist/bartender,No,5,0,25
+Anne-Catherine Labb�,27,"Quebec City, Quebec",Model/make-up artist,No,5,0,25
+Amber LaRoux,27,"Sunriver, Oregon",Consultant,No,5,0,25
+Mandy Clemens,25,"San Diego, California",Professional soccer player,No,5,0,25
+Kristy Romero,25,"Dearborn, Michigan",Student,No,5,0,25
+Celeste Creel,24,"Ithaca, New York",Model/executive assistant,No,5,1,25
+Jenny Matthews,24,"Canton, Michigan",Retail manager,No,5,0,25
+Dolores Farburg,26,"Madison, New Jersey",Account manager,No,5,0,25
+Francine Jones,25,"Houston, Texas",Retail manager,No,5,0,25
+DeShaun Warner,25,"Phillipsburg, New Jersey",Account manager/sales,No,5,1,25
+Jessica Kyron,21,"Cincinnati, Ohio",Student,No,5,0,25
+Holly Reeder,26,"Tulsa, Oklahoma",Bank representative,No,5,0,25
+Rachel Clementi,26,"Buffalo, New York",Fashion public relations manager,No,5,0,25
+Kristin Clearwater,25,"Sausalito, California",Singer,No,5,0,25
+,,,,No,,0,
+*Jennifer Wilson*,24,"*Pembroke Pines, Florida*",*Teacher*,Yes,9,0,34
+Sadie Murray,23,"Carlsbad, California",Publicist,Yes,9,0,34
+Lisa Blank,25,"Portland, Oregon",Marketing manager,Yes,9,0,34
+Agnese Polliza,24,"Venice, Italy",Student,Yes,9,0,34
+Jeanette Pawula,23,"Bloomingdale, Illinois",Teacher,No,9,0,34
+Desiree Valentin,22,"Salt Lake City, Utah",Realtor,No,9,0,34
+Jami Matzke,27,"Galveston, Texas",Event planner,No,9,0,34
+Gina Clark,28,"Dallas, Texas",Ultrasound technician,No,9,0,34
+Erica Rose,23,"Houston, Texas",Socialite,No,9,0,34
+Sarah Schnare,30,"Nelson, British Columbia",Journalist,No,9,1,34
+"Kimberly ""Kim"" Jackson",27,"Newport Beach, California",Interior designer,No,9,0,34
+Ellen DeMaio,30,"New Haven, Connecticut",Realtor,No,9,0,34
+Tara Durr,24,"St. Augustine, Florida",Realtor,No,9,0,34
+Rosella Fratto,27,"Chicago, Illinois",Make-up artist,No,9,0,34
+Rita Ghazal,29,"Richmond, Virginia",Policy advisor,No,9,0,34
+Renee Snell,30,"Baltimore, Maryland",Broadcast marketer,No,9,0,34
+"Meryl ""Meri"" Barr",27,"Biloxi, Mississippi",Attorney,No,9,0,34
+Laura Morgan,29,"San Diego, California",Dolphin trainer,No,9,0,34
+Jessica Horner,25,"Charlotte, North Carolina",Assistant buyer,No,9,0,34
+Heather Sneed,34,"Aliquippa, Pennsylvania",Registered nurse,No,9,0,34
+Elyse Hammer,27,"New York City, New York",Physician,No,9,0,34
+Cosetta Blanca,,Italy,Dancer,No,9,0,34
+Claudia Gismondi,22,"Boca Raton, Florida",Restaurateur,No,9,0,34
+Carissa Ilburg,25,"Cattaraugus, New York",Attorney,No,9,0,34
+Britt (Bowe) Newton,28,"Columbus, Ohio",Beer chemist,No,9,0,34
+Andrea Shirley,28,"Cincinnati, Ohio",Hotel concierge,No,9,0,34
+April Jacobs,23,"Chicago, Illinois",Model,No,9,0,34
+*Tessa Horst*,26,"*San Francisco, California*",*Social Worker*,Yes,10,0,34
+Bevin Nicole Powers,28,"Palo Alto, California",Assistant,Yes,10,0,34
+Danielle Imwalle,25,"Bethel, Connecticut",Graphic Designer,Yes,10,0,34
+Amber Alchalabi,23,"Sugar Land, Texas",Teacher,Yes,10,0,34
+Stephanie Wilhite,23,"Overland Park, Kansas",Project Manager,No,10,0,34
+Tina Wu,26,"Los Angeles, California",Medical student,No,10,0,34
+"Kathryn ""Kate"" Brockhouse",24,"Ravenel, South Carolina",Boutique owner,No,10,0,34
+Nicole Clary,26,"Charleston, South Carolina",Sales Manager,No,10,0,34
+Stephanie Tipper,27,"Folly Beach, South Carolina",Organ donor coordinator,No,10,0,34
+Amanda Hackney,26,"Dallas, Texas",Financial analyst,No,10,0,34
+Erin Parker,24,"Logansport, Louisiana",Financial analyst,No,10,0,34
+Peyton Wright,24,"Kingsport, Tennessee",Sorority recruiter,No,10,0,34
+Alexis Young,26,"Southlake, Texas",Attorney,No,10,0,34
+Susan Anderson,23,"The Woodlands, Texas",Boutique manager,No,10,0,34
+Tiffany Warren,28,"Boston, Massachusetts",Medical equipment sales rep,No,10,0,34
+Blakeney Rowe,29,"Birmingham, Alabama",Radio sales,No,10,0,34
+Candice DeCost,23,"Hilton Head Island, South Carolina",Waitress,No,10,0,34
+Catherine Warren,23,"Lake Forest, Illinois",Former Miss Illinois,No,10,0,34
+Danielle Vallis,26,"Bronx, New York",Attorney,No,10,0,34
+"Jacqueline ""Jackie"" Topelli",23,"Minneapolis, Minnesota",Executive coordinator,No,10,0,34
+Jeanette Alvarez,27,"Tampa, Florida",Health care manager,No,10,0,34
+Jessica Devallo,32,"New York, New York",Hedge fund analyst,No,10,0,34
+Linda Malek,33,"Cuyahoga Falls, Ohio",Attorney,No,10,0,34
+Lindsay Smith,22,"Lawrence, Kansas",Student,No,10,1,34
+Tiffany Forester,27,"St. Louis Park, Minnesota",Real estate sales/development,No,10,0,34
+DeAnna Pappas[1],25,"Newnan, Georgia",Realtor,Yes,11,0,35
+Jenni Croft,27,"Wichita, Kansas",Phoenix Suns Cheerleader,Yes,11,0,35
+Bettina Bell[2],27,"Washington, D.C.",Realtor,Yes,11,0,35
+Sheena Stewart[3],23,"Walnut Creek, California",Internet marketing executive,Yes,11,0,35
+Hillary Reisinger[4],27,"Philadelphia, Pennsylvania",Registered nurse,No,11,0,35
+Kristy Katzmann[5],29,"Gurnee, Illinois",Acupuncturist,No,11,0,35
+McCarten Delaney[6][7],26,"Lemon Grove, California",Account manager,No,11,0,35
+"Estefania ""Stephy"" Leon",26,"Atlanta, Georgia",Executive assistant,No,11,0,35
+Jade Beazley[8],24,"Nashville, Tennessee",Boutique sales worker,No,11,0,35
+Lindsey Hawkins,25,"Livonia, Michigan",Model,No,11,0,35
+Sarah Newlon,23,"O'Fallon, Illinois",Bar manager,No,11,0,35
+Solisa Shoop[9],25,"Georgetown, Texas",Esthetician,No,11,0,35
+Erin Gardner,25,"Tampa, Florida",Publishing sales executive,No,11,0,35
+Mallory Simons,24,"Honolulu, Hawaii",Nanny,No,11,0,35
+Michele Leavy[10],30,"South Brunswick, New Jersey",Realtor,No,11,0,35
+Jessica Kiss,27,"Lady Lake, Florida",News anchor,No,11,0,35
+"Julia ""Juli"" Gilliam",24,"Chicago, Illinois",Law student,No,11,0,35
+"Kimberly ""Kim"" Orville",31,"Woodbridge, Connecticut",Realtor,No,11,0,35
+Lori Langley[11],33,"Annapolis, Maryland",Biology teacher,No,11,0,35
+Melissa Buschel[12],28,"Westchester, New York",Event planner,No,11,0,35
+Morgan Becker,24,"Tempe, Arizona",Graduate student,No,11,0,35
+Natalie Velasco,25,"Duncanville, Texas",Law student,No,11,0,35
+Regina Doringa,31,"San Diego, California",Account representative,No,11,1,35
+Tauni Nessler [11],31,"St. Louis Park, Minnesota",Emergency room nurse,No,11,0,35
+Susan Coolidge,35,"St. Charles, Illinois",Project analyst,No,11,0,35
+*Shayne Lamas*[2],22,"*Malibu, California*",*Actress*,Yes,12,0,36
+Chelsea Wanstrath[2],25,"Durango, Colorado",Pharmaceutical sales rep.,Yes,12,0,36
+Amanda Rantuccio[2],27,"Niceville, Florida",Account Executive,Yes,12,0,36
+Noelle Drake[3],26,"Loveland, Colorado",Photographer,Yes,12,0,36
+Marshana Ritchie[4],27,"Brooklyn, New York",Fashion designer,No,12,1,36
+Robin Canfield[4],22,"Holland, Michigan",Advertising coordinator,No,12,0,36
+Ashlee Williss[5],22,"Jacksonville Beach, Florida",Singer-songwriter,No,12,0,36
+Kelly Hark,25,"Hollywood, California",Medical sales representative,No,12,0,36
+Holly Durst[6][7],24,"Suffield, Ohio",Children's book author,No,12,0,36
+Amy Bean,22,"Stockton, California",Nanny,No,12,0,36
+Erin Storm,33,"San Marcos, California",Vendor,No,12,0,36
+Kristine Heffelfinger[8],33,"Dillsburg, Pennsylvania",Personal trainer,No,12,0,36
+"Caroline ""Carri"" Perrier[9][10]",25,"Oklahoma City, Oklahoma",Church marketing rep.,No,12,0,36
+Erin Harper[11][12],25,"Seattle, Washington",Event planner,No,12,0,36
+Michelle Procopio,28,"Syracuse, New York",Administrative assistant,No,12,0,36
+Alyssa Gill,24,"Boise, Idaho",Biology student,No,12,0,36
+Amanda Petterman[13],26,"Cape Girardeau, Missouri",Law student,No,12,0,36
+Denise Hawthorne,30,"Washington, D.C.",Attorney and former White House aide,No,12,0,36
+Devon Antin,24,"Austin, Texas",Make-up artist,No,12,0,36
+Lesley Geyer[14],23,"Tampa, Florida",Youth minister,No,12,0,36
+Michele Romero,33,"Laguna Niguel, California",Interior designer,No,12,0,36
+Rebecca LeBlanc,30,"Alamo, California",Attorney,No,12,0,36
+Stacey Elza[15],26,"Chicago, Illinois",Graduate student,No,12,0,36
+Tamara Sketz,23,"Beverly Hills, California",Cocktail waitress,No,12,0,36
+Tiffany Thornburg,33,"San Francisco, California",Real estate marketing rep.,No,12,0,36
+*Melissa Rycroft*[6],25,"*Dallas, Texas*",*Sales Representative*,Yes,13,0,32
+Molly Malaney[7],24,"Grand Rapids, Michigan",Department Store Buyer,Yes,13,0,32
+Jillian Harris,29,"Peace River, Alberta",Interior Designer,Yes,13,0,32
+Naomi Crespo[8],24,"Carlsbad, California",Flight Attendant,Yes,13,0,32
+Stephanie Hogan[9],34,"Huntsville, Alabama",Medical Marketing Representative,No,13,0,32
+Lauren Wanger,27,"Marlboro, New Jersey",Teacher,No,13,0,32
+Megan Parris[10],25,"Sewickley, Pennsylvania",Lacrosse Coach,No,13,0,32
+Shannon Bair[11],29,"Marshall, Missouri",Dental Hygienist,No,13,0,32
+Nikki Kaapke[12],29,"Blue Island, Illinois",Administrative Assistant,No,13,0,32
+Erica DeSimone,25,"Monroe, Connecticut",Account Executive,No,13,0,32
+Kari Fajen[13],27,"Lee's Summit, Missouri",Account Executive,No,13,0,32
+Natalie Getz[14],27,"Morton, Illinois",Human Resources Recruiter,No,13,0,32
+Raquel Medeiros[15],27,"Recife, Pernambuco, Brazil",Medical Student,No,13,0,32
+Sharon Staebell[16],32,"Batavia, New York",Teacher,No,13,0,32
+Lisa Gonzalez[17],28,"Boise, Idaho",Public Relations Associate,No,13,0,32
+Ann Lueders,24,"Phoenix, Arizona",Flight Attendant,No,13,0,32
+Dominique Carta,26,"Mount Carmel, Pennsylvania",Medical Sales Representative,No,13,0,32
+Emily,23,"Seattle, Washington",Casino Marketing Representative,No,13,0,32
+Jackie Hickley,26,"Springfield, Massachusetts",Wedding Coordinator,No,13,0,32
+Julie Dermotta,26,"Columbus, Ohio",Teacher,No,13,0,32
+Nicole Mah,25,"Calgary, Alberta",Menswear Buyer,No,13,0,32
+Renee Simlak,36,"Southfield, Michigan",Jewelry Designer,No,13,0,32
+Shelby,23,"Stockton, California",Account Executive,No,13,0,32
+Stacia Mann,24,"Orem, Utah",Charity Accountant,No,13,0,32
+Treasure Morgan,28,"Salt Lake City, Utah",Nurse Practitioner,No,13,0,32
+*Vienna Girardi*[1][2],23,"*Geneva, Florida*",*Marketing Representative*,Yes,14,0,32
+Tenley Molzahn[1][3],25,"Newberg, Oregon",College Admissions,Yes,14,0,32
+Gia Allemand[1][4],26,"Long Island, New York",Swimsuit Model,Yes,14,0,32
+Ali Fedotowsky[1][4],25,"Williamstown, Massachusetts",Advertising Account Manager,Yes,14,0,32
+Corrie Adamson,23,"Kissimmee, Florida",Wardrobe Consultant,No,14,0,32
+Ashleigh Hunt[1],25,"North Potomac, Maryland",Account Manager,No,14,0,32
+"Jessica ""Jessie"" Sulidis[1]",25,"Oakville, Ontario",Cosmetic Sales Manager,No,14,0,32
+Kathryn Sherlock[5],25,"Lexington, Kentucky",Corporate Flight Attendant,No,14,0,32
+Ella Nolan[1][4],30,"La Follette, Tennessee",Hair Stylist,No,14,0,32
+Elizabeth Kitt (NE)[4],29,"Imperial, Nebraska",Nanny,No,14,0,32
+Valishia Savage[6],32,"San Bernardino, California",Homemaker,No,14,0,32
+Michelle Kujawa[4],26,"Anaheim, California",Office Manager,No,14,0,32
+Ashley Elmore[7],29,"Pittsburgh, Pennsylvania",Teacher,No,14,0,32
+Christina McCasland[8],25,"San Diego, California",Restaurant Manager,No,14,0,32
+Rozlyn Papa[4],28,"Richmond, Virginia",Model/Make-Up Artist,No,14,0,32
+"Alexa ""Lex"" McAllister[9]",25,"Galloway, Ohio",Entrepreneur,No,14,0,32
+Caitlyn McCabe[10],24,"Winfield, Illinois",Spokesmodel,No,14,0,32
+Channy Choch[11],29,"Santa Rosa, California",Mortgage Loan Officer,No,14,0,32
+Elizabeth Kreft (D.C.)[12],29,"Union, Kentucky","Captain, Air National Guard",No,14,0,32
+Emily Harkins[9],23,"West Chester, Ohio",Fit Model,No,14,0,32
+Kimberly Sullivan[13],24,"Norman, Oklahoma",NBA Dancer,No,14,0,32
+Kirsten Pittman[14],25,"Aurora, Colorado",Waitress,No,14,0,32
+Sheila Lidner[15],25,"Scottsdale, Arizona",Commercial Pilot,No,14,0,32
+Stephanie Mueller[13],24,"Morris, Illinois",Dance Teacher,No,14,0,32
+Tiana Kruzel[16],31,"Calgary, Alberta",Medical Technician,No,14,0,32
+*Emily Maynard*[5],24,"*Morgantown, West Virginia*",*Children's Hospital Event Planner*,Yes,15,0,38
+Chantal O'Brien[6],28,"Mercer Island, Washington",Executive Assistant,Yes,15,0,38
+Ashley Hebert[7],26,"Madawaska, Maine",Dental Student,Yes,15,0,38
+Shawntel Newton[8],25,"Chico, California",Funeral Director,Yes,15,0,38
+Michelle Money,30,"Salt Lake City, Utah",Hairstylist,No,15,0,38
+Britt Billmaier[6],25,"Woodinville, Washington",Food Writer,No,15,0,38
+Jackie Gordon[9],26,"Newport, Rhode Island",Artist,No,15,0,38
+"Allison ""Alli"" Travis[10]",24,"Columbus, Ohio",Apparel Merchant,No,15,0,38
+Lisa Morrisey[11],24,"Ottawa, Kansas",Marketing Coordinator,No,15,0,38
+Marissa May[12],26,"Mesa, Arizona",Sports Publicist,No,15,0,38
+Ashley Spivey[13],26,"Ellerbe, North Carolina",Nanny,No,15,0,38
+Lindsay Hill[14],25,"Plano, Texas",First Grade Teacher,No,15,0,38
+Meghan Merritt,30,"Princeton, New Jersey",Fashion Marketer,No,15,0,38
+Stacey Quirpel,26,"Quincy, Massachusetts",Bartender,No,15,0,38
+Kimberly Coon[15],27,"Orlando, Florida",Marketing Coordinator,No,15,0,38
+Sarah Powell[16],27,"Denver, Colorado",Real Estate Broker,No,15,0,38
+Madison Garton[17],25,"Vail, Colorado",Model,No,15,0,38
+Keltie Busch[18],28,"Sherwood Park, Alberta",Radio City Rockette,No,15,0,38
+Melissa Schreiber[19],32,"Westport, Connecticut",Waitress,No,15,0,38
+Raichel Goodyear[19],29,"Fullerton, California",Manscaper,No,15,0,38
+Britnee Marks[19],25,"Holland, Pennsylvania",Paralegal,No,15,0,38
+Cristy Caserta[20],30,"Davie, Florida",Attorney,No,15,0,38
+"Jessica ""J"" Adams[6]",26,"Seattle, Washington",Operations Manager,No,15,0,38
+Jill Ruskowski[14],28,"Frisco, Texas",Sales Director,No,15,0,38
+Lacey Garbelman[21],27,"Tampa, Florida",Insurance Agent,No,15,0,38
+Lauren Moore[22],26,"Culpeper, Virginia",High School Teacher,No,15,0,38
+Lisa Pastrich,27,"Dix Hills, New York",Sales Consultant,No,15,0,38
+Rebecca,30,"Mission Viejo, California",Esthetician,No,15,0,38
+Renee Halpin,28,"Palos Hills, Illinois",Nanny,No,15,0,38
+Sarah Ledtke[23],25,"Saginaw, Michigan",Musical Theatre Performer,No,15,0,38
+*Courtney Robertson*[5][6],28,"*Scottsdale, Arizona*",*Model*,Yes,16,0,28
+Lindzi Cox[7],27,"Ocala, Florida",Business Development Manager,Yes,16,0,28
+Nicki Sterling[5],26,"Hurst, Texas",Dental Hygienist,Yes,16,0,28
+Kacie Boguskie[8],24,"Clarksville, Tennessee",Administrative Assistant,Yes,16,0,28
+Emily O'Brien[9],27,"Chapel Hill, North Carolina",PhD Student,No,16,0,28
+Rachel Truehart[10],27,"Southampton, Massachusetts",Fashion Sales Representative,No,16,0,28
+Jamie Otis[11],25,"Dryden, New York",Registered Nurse,No,16,0,28
+Casey Shteamer[12],26,"Leawood, Kansas",Trading Clerk,No,16,0,28
+Blakeley Jones [9],34,"Rutherfordton, North Carolina",VIP Cocktail Waitress,No,16,0,28
+Jennifer Fritsch[12],28,"Cache, Oklahoma",Accountant,No,16,0,28
+Elyse Myers[12],24,"Chicago, Illinois",Personal Trainer,No,16,0,28
+Monica Spannbauer[13],33,"Yuba, California",Dental Consultant,No,16,0,28
+Samantha Levey[14][15],26,"Pittsburgh, Pennsylvania",Advertising Account Manager,No,16,0,28
+Erika Uhlig[16],23,"Charlottesville, Virginia",Law Student,No,16,0,28
+Jaclyn Swartz[17],27,"Newton, Massachusetts",Advertising Account Manager,No,16,0,28
+Brittney Schreiner[5],26,"Colorado Springs, Colorado",Medical Sales Representative,No,16,0,28
+Jenna Burke[18][19],27,"Loveland, Ohio",Blogger,No,16,0,28
+Shawn Reynolds[20],28,"Cincinnati, Ohio",Financial Advisor,No,16,0,28
+Amber Bacon[21],23,"Port Coquitlam, British Columbia",Labor and Delivery Nurse,No,16,0,28
+Amber Tierney[22][23],28,"Waverly, Nebraska",Critical Care Nurse,No,16,0,28
+Anna Snowball[18][24],25,"Grosse Pointe, Michigan",Student,No,16,0,28
+Dianna Martinez[15],30,"San Gabriel, California",Nonprofit Director,No,16,0,28
+Holly Johnson[22],34,"Salyersville, Kentucky",Pharmaceutical Sales Representative,No,16,0,28
+Lyndsie James[22],29,"London, England",Internet Entrepreneur,No,16,0,28
+Shira Astrof[15],35,"Massapequa Park, New York",Actress,No,16,0,28
+*Catherine Giudici*[11],26,"*Seattle, Washington*",*Graphic Designer*,Yes,17,0,29
+Lindsay Yenter[12],24,"Fort Leonard Wood, Missouri",Substitute Teacher,Yes,17,0,29
+AshLee Frazier[13],32,"Houston, Texas",Personal Organizer,Yes,17,0,29
+Desiree Hartsock[14],26,"Northglenn, Colorado",Bridal Stylist,Yes,17,0,29
+Lesley Murphy[15],24,"Fort Smith, Arkansas",Political Consultant,No,17,0,29
+Tierra LiCausi[16],24,"Las Vegas, Nevada",Leasing Consultant,No,17,0,29
+Daniella McBride[17],24,"Belmont, California",Commercial Casting Associate,No,17,0,29
+Selma Alameri[18],29,"Borrego Springs, California",Real Estate Dealer,No,17,0,29
+Sarah Herron[14][19],26,"Evergreen, Colorado",Advertising Executive,No,17,0,29
+Robyn Howard[13][20],24,"Topeka, Kansas",Oil Field Account Manager,No,17,1,29
+"Jacqueline ""Jackie"" Parr[21]",25,"Ormond Beach, Florida",Cosmetics Consultant,No,17,0,29
+Amanda Meyer[14],26,"Bakersfield, California",Fit Model,No,17,0,29
+Leslie Hughes[14],28,"Ruskin, Florida",Poker Dealer,No,17,1,29
+"Kristina ""Kristy"" Kaminski[22]",25,"Darien, Wisconsin",Model,No,17,0,29
+Taryn Renee Daniels[23],30,"Troutdale, Oregon",Health Club Manager,No,17,0,29
+Kacie Boguskie[24],25,"Clarksville, Tennessee",Administrative Assistant,No,17,0,29
+Brooke Burchette[25],25,"Pittsburgh, Pennsylvania",Community Organizer,No,17,1,29
+Diana Weeks Willardson[26],31,"Sandy, Utah",Salon Owner,No,17,0,29
+"Katherine ""Katie"" Levans[27]",27,"Woodstock, Illinois",Yoga Instructor,No,17,0,29
+Ashley Harper[28],25,"Garner, North Carolina",Fashion Model,No,17,1,29
+Ashley Palenkas[29],28,"Macomb, Michigan",Hair Stylist,No,17,0,29
+Kelly Dutton[30],28,"Chattanooga, Tennessee",Cruise Ship Entertainer,No,17,0,29
+Keriann Miranda[31],29,"Agoura Hills, California",Entrepreneur,No,17,0,29
+Lacey Latka[14],24,"Stevenson Ranch, California",Graduate Student,No,17,0,29
+Lauren Marchetti[32],27,"Cranston, Rhode Island",Journalist,No,17,0,29
+Paige Vigil,25,"Minnetonka, Minnesota",Jumbotron Operator,No,17,0,29
+*Nikki Ferrell*[6][7],26,"*Kearney, Missouri*",*Pediatric Nurse*,Yes,18,0,32
+Clare Crawley[8],32,"Sacramento, California",Hairstylist,Yes,18,0,32
+Andi Dorfman[9],26,"Buckhead, Georgia",Assistant District Attorney,Yes,18,0,32
+Renee Oteri[10],32,"Sarasota, Florida",Real Estate Agent,Yes,18,0,32
+Chelsie Webster[11],24,"Lexington, Ohio",Science Educator,No,18,0,32
+Sharleen Joynt[12][13],29,"Ottawa, Ontario",Opera Singer,No,18,0,32
+"Kathleen ""Kat"" Hurd[14]",29,"Iowa City, Iowa",Medical Sales Rep,No,18,0,32
+Cassandra Ferguson[15],22,"Rochester Hills, Michigan",Former NBA Dancer,No,18,0,32
+"Allison ""Alli"" Restko[13]",26,"Orland Park, Illinois",Nanny,No,18,0,32
+Danielle Ronco[16],25,"Litchfield, Illinois",Psychiatric Nurse,No,18,1,32
+Kelly Travis[9][13],27,"Conyers, Georgia",Dog Lover,No,18,0,32
+Elise Mosca[17],27,"Forty Fort, Pennsylvania",First Grade Teacher,No,18,0,32
+Lauren Solomon[18],26,"Clinton, Michigan",Music Composer,No,18,0,32
+Christy Hansen[19],24,"Aurora, Illinois",Marketing Manager,No,18,0,32
+"Lucinda ""Lucy"" Aragon[13]",25,"Santa Barbara, California",Free Spirit,No,18,0,32
+Amy Long[20],27,"Clermont, Florida",Local News Reporter,No,18,0,32
+Chantel Forrest[21],27,"Miami, Florida",Account Manager,No,18,1,32
+Victoria Lima[13],24,"Porto Alegre, Brazil",Legal Assistant,No,18,0,32
+Alexis Morgado[13][22],24,"Tampa, Florida",Communications Director,No,18,0,32
+Amy Jokinen[13],31,"Apopka, Florida",Massage Therapist,No,18,0,32
+Ashley Poe[13],25,"Roanoke, Texas",Grade School Teacher,No,18,0,32
+Christine Llano[13][23],23,"Miami, Florida",Police Support Specialist,No,18,0,32
+Kylie Lewis[13][24],23,"Rockford, Illinois",Interior Designer,No,18,0,32
+Lacy Faddoul[13][21],25,"Antelope Acres, California",Nursing Home Owner,No,18,0,32
+Lauren Higginson[13],25,"Edmond, Oklahoma",Mineral Coordinator,No,18,0,32
+Maggie Gantt[13][25],25,"Wagener, South Carolina",Personal Banker,No,18,0,32
+Valerie Eredia[13][26],26,"Sutter, California",Personal Trainer,No,18,0,32
+*Whitney Bischoff*[6][7],29,"*Louisville, Kentucky*",*Fertility Nurse*,Yes,19,0,33
+Becca Tilley[9][10],25,"Shreveport, Louisiana",Chiropractic Assistant,Yes,19,0,33
+Kaitlyn Bristowe[11],29,"Leduc, Alberta",Dance Instructor,Yes,19,0,33
+Jade Roper[7][13],28,"Gering, Nebraska",Cosmetics Developer,Yes,19,0,33
+Carly Waddell[3],29,"Arlington, Texas",Cruise Ship Singer,No,19,0,33
+Britt Nilsson[7][13],27,"Wolcott Mills, Michigan",Waitress,No,19,0,33
+Megan Bell[6],24,"Brentwood, Tennessee",Make-Up Artist,No,19,0,33
+Kelsey Poe[7][16],28,"Hudsonville, Michigan",Guidance Counselor,No,19,0,33
+Ashley Iaconetti[7][18],26,"Great Falls, Virginia",Journalist,No,19,0,33
+Mackenzie Deonigi[6],21,"Maple Valley, Washington",Dental Assistant,No,19,0,33
+Samantha Steffen[13][19],27,"Indianapolis, Indiana",Fashion Designer,No,19,0,33
+Ashley Salter[20],24,"Vinings, Georgia",Hair Stylist,No,19,0,33
+Juelia Kinney[6][22],30,"Beaverton, Oregon",Esthetician,No,19,0,33
+Nikki Delventhal[18],26,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader,No,19,0,33
+Jillian Anderson[23][24],25,"Howland, Ohio",News Producer,No,19,0,33
+Amber James[6][25],29,"Kankakee, Illinois",Bartender,No,19,1,33
+Tracy Darakis[27],29,"Wellington, Florida",Fourth Grade Teacher,No,19,0,33
+Trina Scherenberg[13][28],33,"Algonquin, Illinois",Special Education Teacher,No,19,0,33
+Alissa Giambrone[18],24,"Hamilton, New Jersey",Flight Attendant,No,19,0,33
+Jordan Branch[30],24,"Windsor, Colorado",Student,No,19,0,33
+Kimberly Sherbach[31],28,"Wantagh, New York",Yoga Instructor,No,19,0,33
+Tandra Steiner[6],30,"Sandy, Utah",Executive Assistant,No,19,0,33
+Tara Eddings[6][33],26,"Fort Lauderdale, Florida",Sport Fishing Enthusiast,No,19,0,33
+Amanda Goerlitz[28],24,"Lake in the Hills, Illinois",Ballet Teacher,No,19,0,33
+Bo Stanley[34],25,"Carpinteria, California",Plus-Size Model,No,19,0,33
+Brittany Fetkin[35],26,"Temecula, California",WWE Diva-in-Training,No,19,0,33
+Kara Wilson[36],25,"Brownsville, Kentucky",High School Soccer Coach,No,19,0,33
+Michelle Davis[6],25,"Provo, Utah",Wedding Cake Baker,No,19,0,33
+Nicole Meacham[37][38],31,"Scottsdale, Arizona",Real Estate Agent,No,19,0,33
+Reegan Cornwell[13],28,"Manhattan Beach, California",Cadaver Tissue Saleswoman,No,19,0,33
+*Lauren Bushnell*[9],25,"*West Linn, Oregon*",*Flight Attendant*,Yes,20,0,26
+"Joelle ""JoJo"" Fletcher[6][11]",24,"Dallas, Texas",Real Estate Developer,Yes,20,0,26
+Caila Quinn[12],24,"Hudson, Ohio",Software Sales Representative,Yes,20,0,26
+Amanda Stanton[11][14],25,"Laguna Beach, California",Esthetician,Yes,20,0,26
+Becca Tilley[16],26,"Shreveport, Louisiana",Chiropractic Assistant,No,20,0,26
+Emily Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,No,20,0,26
+Lauren Himle[18],25,"Dexter, Michigan",Kindergarten Teacher,No,20,0,26
+Olivia Caridi[5][11],23,"Austin, Texas",Former News Anchor,No,20,0,26
+Leah Block[20],25,"Greenwood Village, Colorado",Event Planner,No,20,0,26
+Jennifer Saviano[21],25,"Davie, Florida",Small Business Owner,No,20,0,26
+Jubilee Sharpe[11],24,"Fort Lauderdale, Florida",War Veteran,No,20,1,26
+Amber James[23],30,"Kankakee, Illinois",Bartender,No,20,1,26
+Rachel Tchen[25],23,"Little Rock, Arkansas",Unemployed,No,20,0,26
+Haley Ferguson[a][11],23,"Las Vegas, Nevada",Waitress,No,20,0,26
+Jami Letain[26],23,"St. Albert, Alberta",Bartender,No,20,1,26
+Shushanna Mkrtychyan[28],27,"Salt Lake City, Utah",Property Manager,No,20,0,26
+Lace Morris[20],25,"Denver, Colorado",Real Estate Agent,No,20,0,26
+"Jacqueline ""Jackie"" Dion[29]",23,"Newport Beach, California",Gerontologist,No,20,0,26
+"Amanda ""Mandi"" Kremer[31]",28,"Portland, Oregon",Dentist,No,20,0,26
+Samantha Passmore[32],26,"New Smyrna Beach, Florida",Attorney,No,20,0,26
+"Lauren ""LB"" Barr[33]",23,"Stillwater, Oklahoma",Fashion Buyer,No,20,0,26
+Laura Esselman[34],24,"Louisville, Kentucky",Account Executive,No,20,0,26
+Breanne Rice[36],30,"Seattle, Washington",Nutritional Therapist,No,20,0,26
+Lauren Russell[37],26,"Houston, Texas",Math Teacher,No,20,0,26
+"Isabel ""Izzy"" Goodkind[38]",24,"Branford, Connecticut",Graphic Designer,No,20,0,26
+Maegan Miller[37],30,"Visalia, California",Cowgirl,No,20,0,26
+Jessica Moser[39],23,"Boca Raton, Florida",Accountant,No,20,0,26
+Tiara Soleim[40],27,"Redmond, Washington",Chicken Enthusiast,No,20,0,26
