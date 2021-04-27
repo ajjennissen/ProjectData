@@ -1,6 +1,6 @@
 Name,Age,Hometown,Job,Eliminated,season,"Skin (0=white, 1= Black)",Bachelor Age
-*Amanda Marsh*,23,"*Chanute, Kansas*",*Event Planner*,*Winner*,1,0,31
-*Trista Rehn*,29,"Miami, Florida",Miami Heat Dancer,Runner-up,1,0,31
+*Amanda Marsh*,23,"*Chanute, Kansas*",*Event Planner*,Week 11,1,0,31
+*Trista Rehn*,29,"Miami, Florida",Miami Heat Dancer,Week 10,1,0,31
 Shannon Oliver,24,"Dallas, Texas",Financial Management Consultant,Week 5,1,0,31
 Kim,24,"Tempe, Arizona",Nanny,Week 4,1,0,31
 Cathy Grimes,22,"Terre Haute, Indiana",Graduate Student,Week 3,1,0,31
@@ -24,9 +24,8 @@ Lisa Gold,29,"Dallas, Texas",Attorney,Week 1,1,0,31
 Paula,24,"Swansea, Massachusetts",Insurance Representative,Week 1,1,0,31
 Rachel,29,"Eastchester, New York",6th Grade Teacher,Week 1,1,0,31
 Wendi Plotnik,26,"Dallas, Texas",Technology Specialist,Week 1,1,0,31
-,,,,,,0,31
-*Helene Eksterowicz*,27,"*Gloucester, New Jersey*",*School Psychologist*,*Winner*,2,0,28
-Brooke Smith,22,"Albertville, Alabama",College Student,Runner-up,2,0,28
+*Helene Eksterowicz*,27,"*Gloucester, New Jersey*",*School Psychologist*,Week 11,2,0,28
+Brooke Smith,22,"Albertville, Alabama",College Student,Week 10,2,0,28
 Gwen Gioia,31,"Philadelphia, Pennsylvania",Executive Recruiter,Week 6,2,0,28
 Angela,27,"Kansas City, Missouri",Registered Nurse,Week 5,2,0,28
 Hayley Crittenden,28,"Lake Oswego, Oregon",Retail Manager,Week 4,2,0,28
@@ -50,8 +49,7 @@ Liangy Fernandez,30,"Coral Gables, Florida",Paralegal,Week 1,2,0,28
 Lori Todd,26,"Dallas, Texas",Former NBA Cheerleader,Week 1,2,1,28
 Merrilee Donohue,28,"Forked River, New Jersey",1st Grade Teacher,Week 1,2,0,28
 Suzi Reid,28,"Richmond, Virginia",Communications Specialist,Week 1,2,0,28
-,,,,,,0,28
-*Jessica Bowlin*,22,"*Huntington Beach, California*",*Student*,*Winner*,5,0,25
+*Jessica Bowlin*,22,"*Huntington Beach, California*",*Student*,Week 11,5,0,25
 Tara Huckeby,23,"Shawnee, Oklahoma",General contractor,Week 7,5,0,25
 Mandy Jaye Jeffreys,26,"Midland, Texas",Designer for an architect firm,Week 6,5,0,25
 Trish Schneider,28,"Atlanta, Georgia",Model,Week 5,5,0,25
@@ -63,7 +61,7 @@ Jenny De Schiralli,26,"Carrboro, North Carolina",Swim instructor/nanny/personal 
 Katie Gehart,22,"Scottsdale, Arizona",LASIK Eye and Skin Center manager,Week 3,5,0,25
 Jean-Marie Callahan,26,"Gibson, North Carolina",Hair stylist,Week 2,5,0,25
 Debbie Merkett,27,"Pinetops, North Carolina",Massage therapist/bartender,Week 2,5,0,25
-Anne-Catherine Labbé,27,"Quebec City, Quebec",Model/make-up artist,Week 2,5,0,25
+Anne-Catherine LabbÃ©,27,"Quebec City, Quebec",Model/make-up artist,Week 2,5,0,25
 Amber LaRoux,27,"Sunriver, Oregon",Consultant,Week 2,5,0,25
 Mandy Clemens,25,"San Diego, California",Professional soccer player,Week 2,5,0,25
 Kristy Romero,25,"Dearborn, Michigan",Student,Week 2,5,0,25
@@ -76,8 +74,7 @@ Jessica Kyron,21,"Cincinnati, Ohio",Student,Week 1,5,0,25
 Holly Reeder,26,"Tulsa, Oklahoma",Bank representative,Week 1,5,0,25
 Rachel Clementi,26,"Buffalo, New York",Fashion public relations manager,Week 1,5,0,25
 Kristin Clearwater,25,"Sausalito, California",Singer,Week 1,5,0,25
-,,,,,,0,
-*Jennifer Wilson*,24,"*Pembroke Pines, Florida*",*Teacher*,*Winner*,9,0,34
+*Jennifer Wilson*,24,"*Pembroke Pines, Florida*",*Teacher*,Week 11,9,0,34
 Sadie Murray,23,"Carlsbad, California",Publicist,Week 7,9,0,34
 Lisa Blank,25,"Portland, Oregon",Marketing manager,Week 6,9,0,34
 Agnese Polliza,24,"Venice, Italy",Student,Week 5,9,0,34
@@ -104,7 +101,7 @@ Carissa Ilburg,25,"Cattaraugus, New York",Attorney,Week 1,9,0,34
 Britt (Bowe) Newton,28,"Columbus, Ohio",Beer chemist,Week 1,9,0,34
 Andrea Shirley,28,"Cincinnati, Ohio",Hotel concierge,Week 1,9,0,34
 April Jacobs,23,"Chicago, Illinois",Model,Week 1,9,0,34
-*Tessa Horst*,26,"*San Francisco, California*",*Social Worker*,*Winner*,10,0,34
+*Tessa Horst*,26,"*San Francisco, California*",*Social Worker*,Week 11,10,0,34
 Bevin Nicole Powers,28,"Palo Alto, California",Assistant,Week 8,10,0,34
 Danielle Imwalle,25,"Bethel, Connecticut",Graphic Designer,Week 7,10,0,34
 Amber Alchalabi,23,"Sugar Land, Texas",Teacher,Week 6,10,0,34
@@ -129,8 +126,8 @@ Jessica Devallo,32,"New York, New York",Hedge fund analyst,Week 1,10,0,34
 Linda Malek,33,"Cuyahoga Falls, Ohio",Attorney,Week 1,10,0,34
 Lindsay Smith,22,"Lawrence, Kansas",Student,Week 1,10,1,34
 Tiffany Forester,27,"St. Louis Park, Minnesota",Real estate sales/development,Week 1,10,0,34
-DeAnna Pappas[1],25,"Newnan, Georgia",Realtor,Runner-up,11,0,35
-Jenni Croft,27,"Wichita, Kansas",Phoenix Suns Cheerleader,Runner-up,11,0,35
+DeAnna Pappas[1],25,"Newnan, Georgia",Realtor,Week 11,11,0,35
+Jenni Croft,27,"Wichita, Kansas",Phoenix Suns Cheerleader,Week 10,11,0,35
 Bettina Bell[2],27,"Washington, D.C.",Realtor,Week 7,11,0,35
 Sheena Stewart[3],23,"Walnut Creek, California",Internet marketing executive,Week 6,11,0,35
 Hillary Reisinger[4],27,"Philadelphia, Pennsylvania",Registered nurse,Week 5,11,0,35
@@ -154,8 +151,8 @@ Natalie Velasco,25,"Duncanville, Texas",Law student,Week 1,11,0,35
 Regina Doringa,31,"San Diego, California",Account representative,Week 1,11,1,35
 Tauni Nessler [11],31,"St. Louis Park, Minnesota",Emergency room nurse,Week 1,11,0,35
 Susan Coolidge,35,"St. Charles, Illinois",Project analyst,Week 1,11,0,35
-*Shayne Lamas*[2],22,"*Malibu, California*",*Actress*,*Winner*,12,0,36
-Chelsea Wanstrath[2],25,"Durango, Colorado",Pharmaceutical sales rep.,Runner-up,12,0,36
+*Shayne Lamas*[2],22,"*Malibu, California*",*Actress*,Week 11,12,0,36
+Chelsea Wanstrath[2],25,"Durango, Colorado",Pharmaceutical sales rep.,Week 10,12,0,36
 Amanda Rantuccio[2],27,"Niceville, Florida",Account Executive,Week 7,12,0,36
 Noelle Drake[3],26,"Loveland, Colorado",Photographer,Week 6,12,0,36
 Marshana Ritchie[4],27,"Brooklyn, New York",Fashion designer,Week 5,12,1,36
@@ -179,8 +176,8 @@ Rebecca LeBlanc,30,"Alamo, California",Attorney,Week 1,12,0,36
 Stacey Elza[15],26,"Chicago, Illinois",Graduate student,Week 1,12,0,36
 Tamara Sketz,23,"Beverly Hills, California",Cocktail waitress,Week 1,12,0,36
 Tiffany Thornburg,33,"San Francisco, California",Real estate marketing rep.,Week 1,12,0,36
-*Melissa Rycroft*[6],25,"*Dallas, Texas*",*Sales Representative*,*Winner*,13,0,32
-Molly Malaney[7],24,"Grand Rapids, Michigan",Department Store Buyer,Runner-Up,13,0,32
+*Melissa Rycroft*[6],25,"*Dallas, Texas*",*Sales Representative*,Week 11,13,0,32
+Molly Malaney[7],24,"Grand Rapids, Michigan",Department Store Buyer,Week 10,13,0,32
 Jillian Harris,29,"Peace River, Alberta",Interior Designer,Week 7,13,0,32
 Naomi Crespo[8],24,"Carlsbad, California",Flight Attendant,Week 6,13,0,32
 Stephanie Hogan[9],34,"Huntsville, Alabama",Medical Marketing Representative,Week 5,13,0,32
@@ -204,8 +201,8 @@ Renee Simlak,36,"Southfield, Michigan",Jewelry Designer,Week 1,13,0,32
 Shelby,23,"Stockton, California",Account Executive,Week 1,13,0,32
 Stacia Mann,24,"Orem, Utah",Charity Accountant,Week 1,13,0,32
 Treasure Morgan,28,"Salt Lake City, Utah",Nurse Practitioner,Week 1,13,0,32
-*Vienna Girardi*[1][2],23,"*Geneva, Florida*",*Marketing Representative*,*Winner*,14,0,32
-Tenley Molzahn[1][3],25,"Newberg, Oregon",College Admissions,Runner-Up,14,0,32
+*Vienna Girardi*[1][2],23,"*Geneva, Florida*",*Marketing Representative*,Week 11,14,0,32
+Tenley Molzahn[1][3],25,"Newberg, Oregon",College Admissions,Week 10,14,0,32
 Gia Allemand[1][4],26,"Long Island, New York",Swimsuit Model,Week 7,14,0,32
 Ali Fedotowsky[1][4],25,"Williamstown, Massachusetts",Advertising Account Manager,Week 6,14,0,32
 Corrie Adamson,23,"Kissimmee, Florida",Wardrobe Consultant,Week 5,14,0,32
@@ -229,8 +226,8 @@ Kirsten Pittman[14],25,"Aurora, Colorado",Waitress,Week 1,14,0,32
 Sheila Lidner[15],25,"Scottsdale, Arizona",Commercial Pilot,Week 1,14,0,32
 Stephanie Mueller[13],24,"Morris, Illinois",Dance Teacher,Week 1,14,0,32
 Tiana Kruzel[16],31,"Calgary, Alberta",Medical Technician,Week 1,14,0,32
-*Emily Maynard*[5],24,"*Morgantown, West Virginia*",*Children's Hospital Event Planner*,*Winner*,15,0,38
-Chantal O'Brien[6],28,"Mercer Island, Washington",Executive Assistant,Runner-up,15,0,38
+*Emily Maynard*[5],24,"*Morgantown, West Virginia*",*Children's Hospital Event Planner*,Week 11,15,0,38
+Chantal O'Brien[6],28,"Mercer Island, Washington",Executive Assistant,Week 10,15,0,38
 Ashley Hebert[7],26,"Madawaska, Maine",Dental Student,Week 9,15,0,38
 Shawntel Newton[8],25,"Chico, California",Funeral Director,Week 8,15,0,38
 Michelle Money,30,"Salt Lake City, Utah",Hairstylist,Week 7,15,0,38
@@ -259,8 +256,8 @@ Lisa Pastrich,27,"Dix Hills, New York",Sales Consultant,Week 1,15,0,38
 Rebecca,30,"Mission Viejo, California",Esthetician,Week 1,15,0,38
 Renee Halpin,28,"Palos Hills, Illinois",Nanny,Week 1,15,0,38
 Sarah Ledtke[23],25,"Saginaw, Michigan",Musical Theatre Performer,Week 1,15,0,38
-*Courtney Robertson*[5][6],28,"*Scottsdale, Arizona*",*Model*,*Winner*,16,0,28
-Lindzi Cox[7],27,"Ocala, Florida",Business Development Manager,Runner-up,16,0,28
+*Courtney Robertson*[5][6],28,"*Scottsdale, Arizona*",*Model*,Week 11,16,0,28
+Lindzi Cox[7],27,"Ocala, Florida",Business Development Manager,Week 10,16,0,28
 Nicki Sterling[5],26,"Hurst, Texas",Dental Hygienist,Week 9,16,0,28
 Kacie Boguskie[8],24,"Clarksville, Tennessee",Administrative Assistant,Week 8,16,0,28
 Emily O'Brien[9],27,"Chapel Hill, North Carolina",PhD Student,Week 7,16,0,28
@@ -284,8 +281,8 @@ Dianna Martinez[15],30,"San Gabriel, California",Nonprofit Director,Week 1,16,0,
 Holly Johnson[22],34,"Salyersville, Kentucky",Pharmaceutical Sales Representative,Week 1,16,0,28
 Lyndsie James[22],29,"London, England",Internet Entrepreneur,Week 1,16,0,28
 Shira Astrof[15],35,"Massapequa Park, New York",Actress,Week 1,16,0,28
-*Catherine Giudici*[11],26,"*Seattle, Washington*",*Graphic Designer*,*Winner*,17,0,29
-Lindsay Yenter[12],24,"Fort Leonard Wood, Missouri",Substitute Teacher,Runner-up,17,0,29
+*Catherine Giudici*[11],26,"*Seattle, Washington*",*Graphic Designer*,Week 11,17,0,29
+Lindsay Yenter[12],24,"Fort Leonard Wood, Missouri",Substitute Teacher,Week 10,17,0,29
 AshLee Frazier[13],32,"Houston, Texas",Personal Organizer,Week 9,17,0,29
 Desiree Hartsock[14],26,"Northglenn, Colorado",Bridal Stylist,Week 8,17,0,29
 Lesley Murphy[15],24,"Fort Smith, Arkansas",Political Consultant,Week 7,17,0,29
@@ -310,8 +307,8 @@ Keriann Miranda[31],29,"Agoura Hills, California",Entrepreneur,Week 1,17,0,29
 Lacey Latka[14],24,"Stevenson Ranch, California",Graduate Student,Week 1,17,0,29
 Lauren Marchetti[32],27,"Cranston, Rhode Island",Journalist,Week 1,17,0,29
 Paige Vigil,25,"Minnetonka, Minnesota",Jumbotron Operator,Week 1,17,0,29
-*Nikki Ferrell*[6][7],26,"*Kearney, Missouri*",*Pediatric Nurse*,*Winner*,18,0,32
-Clare Crawley[8],32,"Sacramento, California",Hairstylist,Runner-up,18,0,32
+*Nikki Ferrell*[6][7],26,"*Kearney, Missouri*",*Pediatric Nurse*,Week 11,18,0,32
+Clare Crawley[8],32,"Sacramento, California",Hairstylist,Week 10,18,0,32
 Andi Dorfman[9],26,"Buckhead, Georgia",Assistant District Attorney,Week 9,18,0,32
 Renee Oteri[10],32,"Sarasota, Florida",Real Estate Agent,Week 8,18,0,32
 Chelsie Webster[11],24,"Lexington, Ohio",Science Educator,Week 7,18,0,32
@@ -337,8 +334,8 @@ Lacy Faddoul[13][21],25,"Antelope Acres, California",Nursing Home Owner,Week 1,1
 Lauren Higginson[13],25,"Edmond, Oklahoma",Mineral Coordinator,Week 1,18,0,32
 Maggie Gantt[13][25],25,"Wagener, South Carolina",Personal Banker,Week 1,18,0,32
 Valerie Eredia[13][26],26,"Sutter, California",Personal Trainer,Week 1,18,0,32
-*Whitney Bischoff*[6][7],29,"*Louisville, Kentucky*",*Fertility Nurse*,*Winner*,19,0,33
-Becca Tilley[9][10],25,"Shreveport, Louisiana",Chiropractic Assistant,Runner-up,19,0,33
+*Whitney Bischoff*[6][7],29,"*Louisville, Kentucky*",*Fertility Nurse*,Week 11,19,0,33
+Becca Tilley[9][10],25,"Shreveport, Louisiana",Chiropractic Assistant,Week 10,19,0,33
 Kaitlyn Bristowe[11],29,"Leduc, Alberta",Dance Instructor,Week 9,19,0,33
 Jade Roper[7][13],28,"Gering, Nebraska",Cosmetics Developer,Week 8,19,0,33
 Carly Waddell[3],29,"Arlington, Texas",Cruise Ship Singer,Week 7,19,0,33
@@ -367,8 +364,8 @@ Kara Wilson[36],25,"Brownsville, Kentucky",High School Soccer Coach,Week 1,19,0,
 Michelle Davis[6],25,"Provo, Utah",Wedding Cake Baker,Week 1,19,0,33
 Nicole Meacham[37][38],31,"Scottsdale, Arizona",Real Estate Agent,Week 1,19,0,33
 Reegan Cornwell[13],28,"Manhattan Beach, California",Cadaver Tissue Saleswoman,,19,0,33
-*Lauren Bushnell*[9],25,"*West Linn, Oregon*",*Flight Attendant*,*Winner*,20,0,26
-"Joelle ""JoJo"" Fletcher[6][11]",24,"Dallas, Texas",Real Estate Developer,Runner-up,20,0,26
+*Lauren Bushnell*[9],25,"*West Linn, Oregon*",*Flight Attendant*,Week 11,20,0,26
+"Joelle ""JoJo"" Fletcher[6][11]",24,"Dallas, Texas",Real Estate Developer,Week 10,20,0,26
 Caila Quinn[12],24,"Hudson, Ohio",Software Sales Representative,Week 9,20,0,26
 Amanda Stanton[11][14],25,"Laguna Beach, California",Esthetician,Week 8,20,0,26
 Becca Tilley[16],26,"Shreveport, Louisiana",Chiropractic Assistant,Week 7,20,0,26
